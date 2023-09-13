@@ -1,0 +1,95 @@
+Make,Fuel,Vehicles
+TOYOTA,Gasoline,65349
+HONDA,Gasoline,56820
+NISSAN,Gasoline,25274
+OTHER/UNK,Gasoline,25155
+CHEVROLET,Gasoline,24998
+FORD,Gasoline,22324
+MERCEDES-BENZ,Gasoline,17701
+TESLA,Battery Electric,15558
+BMW,Gasoline,13972
+JEEP,Gasoline,12976
+SUBARU,Gasoline,12535
+AUDI,Gasoline,12384
+HYUNDAI,Gasoline,11410
+LEXUS,Gasoline,11068
+KIA,Gasoline,10553
+MAZDA,Gasoline,9972
+TOYOTA,Hybrid Gasoline,8746
+VOLKSWAGEN,Gasoline,8384
+OTHER/UNK,Diesel and Diesel Hybrid,6737
+OTHER/UNK,Plug-in Hybrid,6707
+DODGE,Gasoline,5677
+OTHER/UNK,Flex-Fuel,5421
+OTHER/UNK,Hybrid Gasoline,5159
+GMC,Gasoline,3452
+PORSCHE,Gasoline,3448
+INFINITI,Gasoline,2777
+FORD,Flex-Fuel,2701
+ACURA,Gasoline,2557
+OTHER/UNK,Battery Electric,2090
+LAND ROVER,Gasoline,1785
+CADILLAC,Gasoline,1700
+HONDA,Plug-in Hybrid,1615
+BMW,Plug-in Hybrid,1546
+FREIGHTLINER,Diesel and Diesel Hybrid,1356
+CHEVROLET,Plug-in Hybrid,1222
+CHEVROLET,Flex-Fuel,945
+LEXUS,Hybrid Gasoline,865
+VOLVO,Gasoline,858
+TOYOTA,Plug-in Hybrid,821
+RAM,Gasoline,797
+RAM,Diesel and Diesel Hybrid,713
+MINI,Gasoline,607
+MITSUBISHI,Gasoline,464
+DODGE,Flex-Fuel,462
+FORD,Hybrid Gasoline,461
+FREIGHTLINER,Gasoline,421
+OTHER/UNK,Hydrogen Fuel Cell,399
+INTERNATIONAL,Diesel and Diesel Hybrid,373
+JEEP,Flex-Fuel,285
+PETERBILT,Natural Gas,274
+ISUZU,Diesel and Diesel Hybrid,248
+CHRYSLER,Gasoline,242
+GMC,Flex-Fuel,215
+JAGUAR,Gasoline,189
+OTHER/UNK,Unk,184
+KIA,Hybrid Gasoline,169
+PETERBILT,Diesel and Diesel Hybrid,157
+OTHER/UNK,Natural Gas,153
+BUICK,Gasoline,136
+KENWORTH,Natural Gas,131
+MERCEDES-BENZ,Diesel and Diesel Hybrid,114
+AUTOCAR,Natural Gas,111
+HINO,Diesel and Diesel Hybrid,109
+KENWORTH,Diesel and Diesel Hybrid,106
+FREIGHTLINER,Natural Gas,102
+VOLVO,Diesel and Diesel Hybrid,101
+Unk,Unk,99
+FORD,Diesel and Diesel Hybrid,85
+AUDI,Plug-in Hybrid,80
+LINCOLN,Gasoline,78
+BLUE BIRD,Other,74
+FREIGHTLINER,Other,67
+CHEVROLET,Diesel and Diesel Hybrid,64
+ALFA ROMEO,Gasoline,46
+CHRYSLER,Plug-in Hybrid,37
+RAM,Flex-Fuel,37
+HONDA,Hybrid Gasoline,35
+EL DORADO,Natural Gas,34
+CHEVROLET,Battery Electric,33
+FORD,Plug-in Hybrid,28
+GILLIG,Natural Gas,26
+PIERCE,Diesel and Diesel Hybrid,25
+KOVATCH,Diesel and Diesel Hybrid,24
+OTHER/UNK,Other,20
+BENTLEY,Gasoline,18
+HONDA,Battery Electric,18
+ROLLS-ROYCE,Gasoline,17
+KALMAR,Diesel and Diesel Hybrid,15
+GMC,Diesel and Diesel Hybrid,15
+FERRARI,Gasoline,15
+TOYOTA,Hydrogen Fuel Cell,14
+HYUNDAI,Hybrid Gasoline,13
+MITSUBISHI,Plug-in Hybrid,11
+GENESIS,Gasoline,11
